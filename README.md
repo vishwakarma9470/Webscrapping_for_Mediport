@@ -1,8 +1,7 @@
 # Webscrapping_for_Mediport
-Ayushman Bharat TMS Data Extraction
-# Ayushman Bharat TMS Data Extraction
+## Ayushman Bharat TMS Data Extraction
 
-This project involves extracting five years of data from the [Ayushman Bharat Transaction Management System (TMS)](https://tms.pmjay.gov.in/OneTMS/loginnew.htm) using web scraping techniques.
+- This project involves extracting five years of data from the [Ayushman Bharat Transaction Management System (TMS)](https://tms.pmjay.gov.in/OneTMS/loginnew.htm) using web scraping techniques.
 
 ## Table of Contents
 
@@ -40,6 +39,6 @@ The Ayushman Bharat TMS typically provides access to three months of data throug
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ayushman-bharat-tms-scraper.git
-   cd ayushman-bharat-tms-scraper
+   git clone https://github.com/vishwakarma9470/Webscrapping_for_Mediport.git
+   cd Webscrapping_for_Mediport
 
